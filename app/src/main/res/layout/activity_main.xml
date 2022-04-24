@@ -22,5 +22,14 @@
             android:text="Домашняя работа №1"
             android:textSize="20sp" />
 
+        <EditText
+            android:id="@+id/editTextTextPersonName"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="5dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Введите создателя ДЗ" />
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
