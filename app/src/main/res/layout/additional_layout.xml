@@ -18,10 +18,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:typeface="sans"
         android:hint="ФИО"
-        android:textStyle="italic"/>
+        android:inputType="textPersonName"
+        android:textStyle="italic"
+        android:typeface="sans" />
 
     <EditText
         android:id="@+id/editTextPhone"
