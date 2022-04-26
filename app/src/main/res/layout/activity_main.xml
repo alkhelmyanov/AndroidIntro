@@ -29,7 +29,7 @@
             android:layout_marginTop="5dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Введите создателя ДЗ" />
+            android:hint="Введите ФИО прверяющего" />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
