@@ -13,7 +13,10 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Калькулятор"
+        android:text="@string/Calculator"
+        android:textStyle="bold|italic"
+        android:textSize="20sp"
+
         app:layout_constraintBottom_toTopOf="@+id/editTextNumberDecimal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -43,6 +46,7 @@
         android:layout_marginStart="30dp"
         android:text="@string/_1"
         android:textSize="@dimen/key_text_size"
+
         app:layout_constraintHorizontal_chainStyle="packed"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextNumberDecimal"

@@ -17,5 +17,6 @@
     <string name="_subtraction">-</string>
     <string name="_divide">/</string>
     <string name="_multiplication">*</string>
+    <string name="Calculator">Калькулятор</string>
 
 </resources>
